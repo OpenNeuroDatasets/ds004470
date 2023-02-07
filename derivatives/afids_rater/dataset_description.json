@@ -1,0 +1,22 @@
+{
+  "Name": "AFIDs Raw Rater Placements",
+  "BIDSVersion": "1.7.0",
+  "PipelineDescription": {
+        "Name": "afids_rater",
+        "Version": "1.0.0"
+        },
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "Manual",
+      "Description": "Placed each point within 3D Slicer, points in subject space" 
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "",
+      "URL": "",
+      "Version": ""
+    }
+  ]
+}
