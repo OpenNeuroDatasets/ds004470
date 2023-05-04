@@ -1,0 +1,32 @@
+{
+    "Name": "Stereotactic Neurosurgery Dataset (SNSX)",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Jonathan C. Lau",
+        "Yiming Xiao",
+        "Roy A. M. Haast",
+        "Greydon Gilmore",
+        "Kâmil Uludağ",
+        "Keith W. MacDougall",
+        "Ravi S. Menon",
+        "Andrew G. Parrent",
+        "Terry M. Peters",
+        "Ali R. Khan"
+    ],
+    "Acknowledgements": "We acknowledge support from: \n\nBrain Canada Platform Support Grant, Canada First Research Excellence Fund BrainsCAN Program, Canada Research, Chairs Award Number 950-231964, CIHR Foundation Grant Number FDN 201409, CIHR Project Grant Number 366062, and NSERC Discovery Grant Number 6639. \n\nWe would also like to acknowledge Catherine Currie for her assistance with recruiting participants for this study.",
+    "License": "CC0",
+    "EthicsApprovals": [
+        "Western University Health Sciences Research Ethics Board (R-17-156)"
+    ],
+    "Funding": [
+        "Brain Canada Platform Support Grant",
+        "Canada First Research Excellence Fund BrainsCAN Program",
+        "Canada Research Chairs Award Number 950-231964",
+        "CIHR Foundation Grant Number FDN 201409",
+        "CIHR Project Grant Number 366062",
+        "NSERC Discovery Grant Number 6639"
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004470.v1.0.1",
+    "HowToAcknowledge": "If using AFIDs or imaging data, please cite: \n\nLau, J. C. et al. Direct visualization and characterization of the human zona incerta and surrounding structures. Hum. Brain Mapp. 41, 4500–4517 (2020)\n\nand \n\nTaha, A. et al. Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration. bioRxiv 2022.11.21.516173 (2022) doi:10.1101/2022.11.21.516173"
+}
